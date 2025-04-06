@@ -1,5 +1,5 @@
   <h1>🔗 Shorty — URL Shortener Built with Flask</h1>
-  [https://github.com/user-attachments/assets/ed501ed5-163f-4c7b-bf94-7496ca0b49f6]
+  
 
   <div class="section">
     <h2>✨ Features</h2>
