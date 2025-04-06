@@ -1,37 +1,4 @@
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background: #f9f9f9;
-      color: #333;
-      margin: 0;
-      padding: 2rem;
-      line-height: 1.7;
-    }
-    h1, h2, h3 {
-      color: #4f46e5;
-    }
-    code, pre {
-      background: #eee;
-      padding: 0.2rem 0.5rem;
-      border-radius: 5px;
-    }
-    .screenshot {
-      width: 100%;
-      max-width: 600px;
-      border-radius: 10px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      margin: 1rem 0;
-    }
-    .feature-list li {
-      margin: 0.4rem 0;
-    }
-    a {
-      color: #4f46e5;
-    }
-    .section {
-      margin-top: 2rem;
-    }
-  </style>
+  
 </head>
 <body>
 
