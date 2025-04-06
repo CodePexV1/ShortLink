@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Short URL Created</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h2>✅ Your short link is:</h2>
+    <input type="text" value="{{ short_url }}" id="shortUrl" readonly>
+    <button onclick="copyToClipboard()">Copy</button>
+  </div>
+  <script>
+    function copyToClipboard() {
+      const copyText = document.getElementById("shortUrl");
+      copyText.select();
+      copyText.setSelectionRange(0, 99999);
+      document.execCommand("copy");
+      alert("Copied: " + copyText.value);
+    }
+  </script>
+</body>
+</html>
