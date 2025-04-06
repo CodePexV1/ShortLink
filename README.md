@@ -2,27 +2,29 @@
 </head>
 <body>
 
-  <h1>🔗 Shorty — A Modern URL Shortener Built with Flask</h1>
-  <img src="screenshots/shorty-preview.png" alt="Shorty Preview" class="screenshot">
+  <h1>🔗 Shorty — URL Shortener Built with Flask</h1>
+  ![Screenshot_277](https://github.com/user-attachments/assets/ed501ed5-163f-4c7b-bf94-7496ca0b49f6)
 
   <div class="section">
     <h2>✨ Features</h2>
     <ul class="feature-list">
       <li>✅ Clean, responsive UI</li>
       <li>🔗 Shorten any long URL instantly</li>
-      <li>✍️ Optional custom aliases</li>
-      <li>📈 Built-in analytics (click tracking)</li>
-      <li>🌙 Light/Dark mode toggle</li>
-      <li>🚀 Ready for deployment (Render, Heroku, etc.)</li>
     </ul>
+
   </div>
 
   <div class="section">
     <h2>📸 Screenshots</h2>
     <h3>Homepage</h3>
-    <img src="screenshots/home.png" alt="Home Page" class="screenshot">
-    <h3>Stats Page</h3>
-    <img src="screenshots/stats.png" alt="Stats Page" class="screenshot">
+   ![Screenshot_277](https://github.com/user-attachments/assets/ed501ed5-163f-4c7b-bf94-7496ca0b49f6)
+    <br>
+    <br>
+    ![Screenshot_278](https://github.com/user-attachments/assets/dd53813d-e0b9-49b9-b4c3-216569b12cbb)
+
+    
+    
+   
   </div>
 
   <div class="section">
@@ -40,17 +42,7 @@ python app.py
     <p>Then open your browser to <code>http://127.0.0.1:5000</code></p>
   </div>
 
-  <div class="section">
-    <h2>🌍 Deployment</h2>
-    <p>You can deploy Shorty easily on:</p>
-    <ul>
-      <li><a href="https://render.com">Render</a></li>
-      <li><a href="https://heroku.com">Heroku</a></li>
-      <li><a href="https://railway.app">Railway</a></li>
-    </ul>
-    <p>Just create a <code>requirements.txt</code> with:</p>
-    <pre><code>flask</code></pre>
-  </div>
+
 
   <div class="section">
     <h2>🧠 Tech Stack</h2>
@@ -63,14 +55,12 @@ python app.py
 
   <div class="section">
     <h2>🪄 Credits</h2>
-    <p>Made with ❤️ by <a href="https://github.com/your-username">Your Name</a></p>
-    <p>Icons from <a href="https://emojione.com">EmojiOne</a></p>
-    <p>UI inspired by minimalism ✨</p>
-  </div>
+    <p>Made by <a href="https://github.com/codepexv1">CodePex</a></p>
+    </div>
 
   <div class="section">
     <h2>📜 License</h2>
-    <p>This project is open-source under the <a href="#">MIT License</a>.</p>
+    <p>This project is open-source under the <a href="https://github.com/CodePexV1/ShortLink/blob/main/LICENSE">MIT License</a>.</p>
   </div>
 
 </body>
